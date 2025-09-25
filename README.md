@@ -129,10 +129,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra2992009&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
----
-
-## 🎯 Final notes — read me like a commit message
-This README is intentionally verbose, visual, and slightly poetic — because building with AI is both engineering and storytelling. It’s a long-form portfolio that shows process, momentum, and the exact line: **my experience of over 100 types of AI** and **my first creation: Aiden AI**.
 
 ---
 
