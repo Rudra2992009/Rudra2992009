@@ -1,4 +1,4 @@
-Hi there 👋, I'm [Your Name]
+Name there 👋, I'm Rudra Pandey
 ​<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Npa21lM3c4NmE3bWk2dmh1MWQ4a3NnZjJ2amc4cTRscGtwYXJ6bSZrZXk9cWpqa2l4MHBwMjczdnRrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62gN29vJ3fU6l1N/giphy.gif" width="200" align="right" alt="Developer GIF">
 ​I'm a passionate developer with a deep interest in the intersection of technology and creativity. My journey has been defined by my constant exploration of new tools and my love for solving complex problems. I believe in the power of code to build, innovate, and make a real-world impact.
 ​My Journey with AI Pair Programming
